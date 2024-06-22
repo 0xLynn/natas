@@ -10,7 +10,6 @@ password = "natas0"
 
 def exploit():
     res = requests.get(url, auth=(username, password))
-    # log.info(res.text)
     flag = re.findall('.*password.*', res.text)
     log.info(flag)
 
