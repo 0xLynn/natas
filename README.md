@@ -13,3 +13,4 @@ Note and Writeup for Natas by OverTheWire
 | natas6 | <a href="./natas6.py">Click Here</a> | 
 | natas7 | <a href="./natas7.py/">Click Here</a> | 
 | natas8 | <a href="./natas8.py">Click Here</a> | 
+| natas9 | <a href="./natas9.py">Click Here</a> | 
